@@ -22,7 +22,7 @@ A full-stack Expense Tracker application that helps users manage daily expenses,
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 - React + Vite
