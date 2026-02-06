@@ -1,4 +1,4 @@
-# 💰 Expense Tracker (Full Stack)
+# Expense Tracker
 
 A full-stack Expense Tracker application that helps users manage daily expenses, set monthly budgets, and visualize spending patterns.
 
@@ -7,7 +7,7 @@ A full-stack Expense Tracker application that helps users manage daily expenses,
 
 ---
 
-## 🚀 Features
+## Features
 
 - User Authentication (JWT)
 - Add / Edit / Delete Expenses
@@ -42,7 +42,7 @@ A full-stack Expense Tracker application that helps users manage daily expenses,
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 expense-tracker/
 ├── frontend/
@@ -52,7 +52,7 @@ expense-tracker/
 
 ---
 
-## ⚙️ Local Setup
+## Local Setup
 
 ### Backend
    bash
@@ -71,7 +71,7 @@ cd frontend
 npm install
 npm run dev
 
-🌍 Deployment
+Deployment
 
 Frontend: Deployed on Vercel
 
